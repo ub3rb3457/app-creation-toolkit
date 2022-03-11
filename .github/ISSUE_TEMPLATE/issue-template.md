@@ -7,10 +7,14 @@ assignees: ''
 
 ---
 
-[
-The user story should have a reason to exist: what do I need as the user described in the summary?
-This part details any detail that could not be passed by the summary.
-]
+As a <user or stakeholder type>
+I want <some software feature>
+So that <some business value>
+  
+<!-- OR : 
+User [x] needs to [y] so that they can [z] -->
+  
+
 
 
 ### Acceptance Criteria
